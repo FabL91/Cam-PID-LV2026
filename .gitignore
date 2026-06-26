@@ -1,0 +1,12 @@
+# Extension
+*.log
+*.dll
+*.aliases
+*.lvlps
+*.pdf
+*.ini
+*.png
+*.xml
+
+# Dossier (le / final est optionnel mais clarifie l'intention)
+.Stabilisation de pointé.UserState/
