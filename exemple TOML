@@ -1,0 +1,6 @@
+["Table Name"]
+Number = 1.0
+Array = [[{Boolean = true}, {Boolean = true}], [{Boolean = false}, {Boolean = true}]]
+
+["Table Name".Table]
+String = "oui"
