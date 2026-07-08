@@ -14,10 +14,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="bruit gaussien.vi" Type="VI" URL="../bruit gaussien.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Sans titre 2.vi" Type="VI" URL="../Sans titre 2.vi"/>
 		<Item Name="set noise.vi" Type="VI" URL="../set noise.vi"/>
+		<Item Name="set noise2.vi" Type="VI" URL="../set noise2.vi"/>
 		<Item Name="teste centrage fonction.vi" Type="VI" URL="../teste centrage fonction.vi"/>
-		<Item Name="TESTE ecart.vi" Type="VI" URL="../../Projet BTS Photonique/TESTE ecart.vi"/>
 		<Item Name="teste initail 50.vi" Type="VI" URL="../teste initail 50.vi"/>
 		<Item Name="TESTE save variables.vi" Type="VI" URL="../TESTE save variables.vi"/>
 		<Item Name="Dépendances" Type="Dependencies"/>

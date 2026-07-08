@@ -7,6 +7,10 @@
 *.ini
 *.png
 *.xml
+*.h
+*.lib
+*.chm
+*.exe
 
 # Dossier (le / final est optionnel mais clarifie l'intention)
 .Stabilisation de pointé.UserState/

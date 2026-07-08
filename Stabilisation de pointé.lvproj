@@ -51,6 +51,8 @@
 		<Item Name="Acquisition.vi" Type="VI" URL="../Acquisition.vi"/>
 		<Item Name="Calculate Frames per Second_Cam.vi" Type="VI" URL="../Calculate Frames per Second_Cam.vi"/>
 		<Item Name="Camera controle_PID.vi" Type="VI" URL="../Camera controle_PID.vi"/>
+		<Item Name="Camera controle_PID_CL.vi" Type="VI" URL="../Camera controle_PID_CL.vi"/>
+		<Item Name="Camera controle_PID_CP.vi" Type="VI" URL="../Camera controle_PID_CP.vi"/>
 		<Item Name="Get Attribut Caméra.vi" Type="VI" URL="../Get Attribut Caméra.vi"/>
 		<Item Name="Dépendances" Type="Dependencies"/>
 		<Item Name="Spécifications de construction" Type="Build"/>
