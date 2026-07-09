@@ -14,7 +14,8 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Caméra Processing" Type="Folder">
 			<Item Name="Fausse couleur.vi" Type="VI" URL="../Fausse couleur.vi"/>
-			<Item Name="Initialiser caméra.vi" Type="VI" URL="../Initialiser caméra.vi"/>
+			<Item Name="Initialiser caméra_CL.vi" Type="VI" URL="../Initialiser caméra_CL.vi"/>
+			<Item Name="Initialiser caméra_CP.vi" Type="VI" URL="../Initialiser caméra_CP.vi"/>
 			<Item Name="Read Data and Draw to LV Picture_modif_RGB.vi" Type="VI" URL="../Read Data and Draw to LV Picture_modif_RGB.vi"/>
 		</Item>
 		<Item Name="Curseurs" Type="Folder">
