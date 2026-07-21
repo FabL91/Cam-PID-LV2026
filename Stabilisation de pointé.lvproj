@@ -54,6 +54,8 @@
 		<Item Name="Camera controle_PID.vi" Type="VI" URL="../Camera controle_PID.vi"/>
 		<Item Name="Camera controle_PID_CL.vi" Type="VI" URL="../Camera controle_PID_CL.vi"/>
 		<Item Name="Camera controle_PID_CP.vi" Type="VI" URL="../Camera controle_PID_CP.vi"/>
+		<Item Name="Camera detection.lvclass" Type="LVClass" URL="../Workers/Camera detection/Camera detection.lvclass"/>
+		<Item Name="Caméra UI.lvclass" Type="LVClass" URL="../Workers/Caméra UI/Caméra UI.lvclass"/>
 		<Item Name="Get Attribut Caméra.vi" Type="VI" URL="../Get Attribut Caméra.vi"/>
 		<Item Name="Dépendances" Type="Dependencies"/>
 		<Item Name="Spécifications de construction" Type="Build"/>
